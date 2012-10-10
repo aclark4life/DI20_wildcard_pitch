@@ -1,0 +1,34 @@
+Pitch
+=====
+
+Hi. My name is Alex Clark and I'm a PYTHON OPEN SOURCE DEVELOPER. I have a consulting company: ACLARK.NET, LLC. And this is my startup: pythonpackages.com.
+
+0 seconds
+----------
+
+Assumption: Developers want things to be easy. pythonpackages.com helps developers PUBLISH AND PROMOTE their Python software QUICKLY and EASILY.
+
+10 seconds
+----------
+
+What is it? Web application to help developers. Does useful things. FREEMIUM SERVICE.
+
+20 seconds
+----------
+
+Why should you care? Because OPEN SOURCE IS AWESOME. Help developers help the world. Important stuff e.g. Hubble Space Telescope (uses PIL, PIL is produced by volunteers.)
+
+30 seconds
+----------
+
+Traction! Featured on Startup Row at PyCon 2012 in Silicon Valley. 200+ beta signups. SciPy wants to use our stuff (once we build it).
+
+40 seconds
+----------
+
+Focus. Push the limits of what is possible (with open source software). Inspired by GitHub, Travis CI, Gittip. Automate and iterate.
+
+50 seconds
+----------
+
+Ready to pivot. One year down, ready for year two.
