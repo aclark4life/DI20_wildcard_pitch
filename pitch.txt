@@ -6,7 +6,7 @@ Hi. My name is Alex Clark and I'm a PYTHON OPEN SOURCE DEVELOPER. I have a consu
 0 seconds
 ----------
 
-Assumption: Developers want things to be easy. pythonpackages.com helps developers PUBLISH AND PROMOTE their Python software QUICKLY AND EASILY.
+A few assumptions: Open source makes the world go around. Developers write open source software. Developers want things to be easy. Developers have egos. pythonpackages.com helps developers PUBLISH AND PROMOTE their Python software QUICKLY AND EASILY.
 
 10 seconds
 ----------
