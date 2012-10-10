@@ -6,7 +6,7 @@ Hi. My name is Alex Clark and I'm a PYTHON OPEN SOURCE DEVELOPER. I have a consu
 0 seconds
 ----------
 
-A few assumptions: Developers want things to be easy. pythonpackages.com helps developers PUBLISH AND PROMOTE their Python software QUICKLY AND EASILY.
+Assumptions: Developers want things to be easy. pythonpackages.com helps developers PUBLISH AND PROMOTE their Python software QUICKLY AND EASILY.
 
 10 seconds
 ----------
@@ -16,7 +16,7 @@ What is it? Web application to help developers. Does useful things. FREEMIUM SER
 20 seconds
 ----------
 
-Why should you care? Because OPEN SOURCE IS AWESOME. Help developers help the world. Important stuff e.g. Hubble Space Telescope uses PIL, PIL is produced by volunteers.
+Why you should care. Because OPEN SOURCE IS AWESOME. Help developers help the world. Important stuff e.g. Hubble Space Telescope uses PIL, PIL is produced by volunteers.
 
 30 seconds
 ----------
@@ -31,4 +31,4 @@ Focus. Push the limits of what is possible (with open source software). Inspired
 50 seconds
 ----------
 
-Ready to pivot. One year down, ready for year two.
+Pivot. One year down, ready for year two.
