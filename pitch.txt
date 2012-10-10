@@ -21,7 +21,7 @@ Why should you care? Because OPEN SOURCE IS AWESOME. Help developers help the wo
 30 seconds
 ----------
 
-Traction! Featured on Startup Row at PyCon 2012 in Silicon Valley. 200+ beta signups. SciPy wants to use our stuff (once we build it).
+Traction! Startup Row. 200+ signups. SciPy. Featured on Startup Row at PyCon 2012 in Silicon Valley. 200+ beta signups. SciPy wants to use our service (once we finish building it) to build their software for $400/m (once we build it).
 
 40 seconds
 ----------
