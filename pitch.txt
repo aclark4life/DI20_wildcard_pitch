@@ -16,7 +16,7 @@ What is it? Web application to help developers. Does useful things. FREEMIUM SER
 20 seconds
 ----------
 
-Why should you care? Because OPEN SOURCE IS AWESOME. Help developers help the world. Important stuff e.g. Hubble Space Telescope (uses PIL, PIL is produced by volunteers.)
+Why should you care? Because OPEN SOURCE IS AWESOME. Help developers help the world. Important stuff e.g. Hubble Space Telescope uses PIL, PIL is produced by volunteers.
 
 30 seconds
 ----------
